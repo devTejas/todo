@@ -1,0 +1,13 @@
+input {
+  border: none;
+  border-bottom: 1px solid black;
+}
+
+input[type="button"] {
+  border: none;
+}
+
+.todo{
+  margin: 10px;
+width: 100px;
+}
